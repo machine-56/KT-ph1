@@ -110,11 +110,11 @@
 }
 
 /* sign in page */
-/* .signin_main{
-    
-    
-    
-} */
+.signin_main{
+    color: aliceblue;
+    margin: 5em;
+    margin-top: 9em;
+}
 .sigin{
     background-color: #566e66;
 }
